@@ -6,9 +6,6 @@ This Power BI project analyzes movie reimbursement data to provide insights into
 ### Data Sources
 * Employee_reimbursement_dataset.xlsx
 
-### About The Project
-<h1 align="center">Screenshots</h1>
-![Project Overview](MID1.png)
 
 ### Data Cleaning and Transformation
 * Imported data using Power Query.
