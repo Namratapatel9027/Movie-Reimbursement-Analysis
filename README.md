@@ -8,8 +8,7 @@ This Power BI project analyzes movie reimbursement data to provide insights into
 
 ### About The Project
 <h1 align="center">Screenshots</h1>
-![Screen Shot](MID1.png)
-![Screen Shot](MID2.png)
+![Project Overview](MID1.png)
 
 ### Data Cleaning and Transformation
 * Imported data using Power Query.
@@ -33,4 +32,8 @@ This Power BI project analyzes movie reimbursement data to provide insights into
 
 ### Acknowledgments
 * Special thanks to Codebasics, Dhaval Patel, and Hemanand Vedival for their guidance and support.
+
+
+Thank you for exploring the Power BI Practice Exercise🚀.
+
 
